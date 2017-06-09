@@ -1,6 +1,6 @@
 {
   "name": "meeting-for-good",
-  "description": "",
+  "description": "A meeting coordination app for your team",
   "scripts": {
   },
   "env": {
